@@ -1,13 +1,14 @@
 {
-  "/api/logout/route": "app/api/logout/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/page": "app/page.js",
+  "/api/public/cars/route": "app/api/public/cars/route.js",
   "/api/login/route": "app/api/login/route.js",
   "/api/cars/route": "app/api/cars/route.js",
-  "/api/cars/[id]/route": "app/api/cars/[id]/route.js",
-  "/admin/dashboard/page": "app/admin/dashboard/page.js",
-  "/admin/settings/page": "app/admin/settings/page.js",
-  "/admin/items/page": "app/admin/items/page.js",
-  "/admin/cars/create/page": "app/admin/cars/create/page.js",
+  "/api/logout/route": "app/api/logout/route.js",
+  "/cars/page": "app/cars/page.js",
   "/admin/login/page": "app/admin/login/page.js",
-  "/admin/cars/[id]/edit/page": "app/admin/cars/[id]/edit/page.js"
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/admin/items/page": "app/admin/items/page.js",
+  "/admin/settings/page": "app/admin/settings/page.js",
+  "/admin/cars/create/page": "app/admin/cars/create/page.js"
 }
